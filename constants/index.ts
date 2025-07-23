@@ -89,6 +89,7 @@ export const resumes: Resume[] = [
       },
     },
   },
+  
 ];
 
 export const AIResponseFormat = `
